@@ -2,6 +2,8 @@
 
 Welcome to the Simpsons Quote Game! Test your knowledge of The Simpsons characters by guessing who said the provided quotes.
 
+![Photo of terminal gameplay](SGG.png)
+
 ## How to Play
 
 1. Clone the repository to your local machine.
